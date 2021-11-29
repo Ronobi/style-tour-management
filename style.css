@@ -1,12 +1,7 @@
 @charset "utf-8";
 
 
-.search {
-	width:100%;
-	min-width:1263px;
-	background: url(../img/search.jpg) no-repeat center;
-	height:600px;
-	position: relative;
+
 }
 .search .center {
 	width:600px;
